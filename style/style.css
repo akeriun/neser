@@ -16,7 +16,7 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-  background-image:url(/img/ims.jpg);
+  background-image:url(/img/ims.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
